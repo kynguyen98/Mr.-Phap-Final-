@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mainfile",
+            "request": "launch",
+            "mainClass": "app.mainfile",
+            "projectName": "ky"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - login",
+            "request": "launch",
+            "mainClass": "app.login",
+            "projectName": "ky"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - project",
+            "request": "launch",
+            "mainClass": "app.project",
+            "projectName": "ky"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "ky"
+        }
+    ]
+}
